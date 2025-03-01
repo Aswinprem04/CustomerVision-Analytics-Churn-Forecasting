@@ -1,9 +1,9 @@
 # CustomerVision: Analytics & Churn Forecasting
-📌 Project Overview
+##📌 Project Overview
 
 This project focuses on analyzing customer data through an ETL pipeline and Power BI dashboard to extract meaningful insights and predict potential customer churn using machine learning.
 
-🚀 Key Features
+##🚀 Key Features
 
 ETL Process: Extracted, transformed, and loaded customer data into a database for structured analysis.
 
