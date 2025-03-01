@@ -7,16 +7,16 @@ This project focuses on analyzing customer data through an ETL pipeline and Powe
 
 __ETL Process:__ Extracted, transformed, and loaded customer data into a database for structured analysis.
 
-Customer Analysis Dashboard: Developed an interactive Power BI dashboard to visualize key metrics at various levels:
+__Customer Analysis Dashboard:__ Developed an interactive Power BI dashboard to visualize key metrics at various levels:
 
-Demographic
+- Demographic
 
-Geographic
+- Geographic
 
-Payment & Account Information
+- Payment & Account Information
 
-Services
+- Services
 
-Churn Analysis: Identified churner profiles and provided insights for targeted marketing campaigns.
+__Churn Analysis:__ Identified churner profiles and provided insights for targeted marketing campaigns.
 
-Machine Learning Model: Implemented a predictive model to forecast future churn and integrated insights into the dashboard.
+__Machine Learning Model:__ Implemented a predictive model to forecast future churn and integrated insights into the dashboard.
