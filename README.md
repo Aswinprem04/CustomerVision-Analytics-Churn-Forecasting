@@ -20,3 +20,14 @@ __Customer Analysis Dashboard:__ Developed an interactive Power BI dashboard to 
 __Churn Analysis:__ Identified churner profiles and provided insights for targeted marketing campaigns.
 
 __Machine Learning Model:__ Implemented a predictive model to forecast future churn and integrated insights into the dashboard.
+
+
+## 📊 Power BI Dashboard
+
+The dashboard provides:
+
+- Customer segmentation based on key attributes
+
+- Churn risk analysis and trends
+
+- Actionable insights for business strategies
