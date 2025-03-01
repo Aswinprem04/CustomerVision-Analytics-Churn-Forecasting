@@ -31,3 +31,15 @@ The dashboard provides:
 - Churn risk analysis and trends
 
 - Actionable insights for business strategies
+
+
+## 📚 Dataset
+
+The dataset includes customer demographics, subscription details, payments, and service usage history.
+
+
+## 📈 Machine Learning Model
+
+Used classification algorithms to predict churn likelihood.
+
+Evaluated model performance using accuracy, precision, recall, and F1-score.
