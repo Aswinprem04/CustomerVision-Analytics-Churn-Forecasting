@@ -5,7 +5,7 @@ This project focuses on analyzing customer data through an ETL pipeline and Powe
 
 ## 🚀 Key Features
 
-ETL Process: Extracted, transformed, and loaded customer data into a database for structured analysis.
+__ETL Process:__ Extracted, transformed, and loaded customer data into a database for structured analysis.
 
 Customer Analysis Dashboard: Developed an interactive Power BI dashboard to visualize key metrics at various levels:
 
