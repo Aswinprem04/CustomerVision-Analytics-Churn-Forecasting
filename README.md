@@ -43,3 +43,10 @@ The dataset includes customer demographics, subscription details, payments, and 
 Used classification algorithms to predict churn likelihood.
 
 Evaluated model performance using accuracy, precision, recall, and F1-score.
+
+
+![1](https://github.com/user-attachments/assets/67cfce35-8318-4481-a98b-3a429cec4743)
+
+
+![2](https://github.com/user-attachments/assets/55e22f90-a74b-4ba8-8cb4-967309905477)
+
