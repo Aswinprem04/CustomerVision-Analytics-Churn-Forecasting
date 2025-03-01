@@ -1,1 +1,1 @@
-# CustomerVision-Analytics-Churn-Forecasting
+# CustomerVision: Analytics & Churn Forecasting
